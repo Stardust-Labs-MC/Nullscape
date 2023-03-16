@@ -18,10 +18,6 @@
               "predicate": {
                 "dimension": "minecraft:the_end"
               }
-            },
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.1
             }
           ]
         },
