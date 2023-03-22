@@ -3,7 +3,7 @@
 Nullscape keeps the End as a barren, depressing, and bleak place: as it should be, and always will be.
 ![Nullscape Banner](https://user-images.githubusercontent.com/63272345/224808975-6d3866c1-a968-4fa1-a1c1-6d9318e42ed9.png)
 ## Notes
-- Nullscape is **not** compatible with the majority of end worldgen projects; except Better Nether
+- Nullscape is **not** compatible with the majority of end worldgen projects; except Better End
 - Do not add this to an existing end - reset yours first, or use a new world
 - View the structures and biomes per seed using [jacobsjo](https://github.com/jacobsjo)'s [Minecraft Datapack Map](https://map.jacobsjo.eu/)
 
