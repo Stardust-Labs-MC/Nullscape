@@ -1,0 +1,21 @@
+{
+"type":"clamp",
+"min":1.0,
+"max":6.0,
+"input":
+
+{
+  "type":"add",
+  "argument1":3.5,
+  "argument2":
+{
+        "type": "minecraft:shifted_noise",
+        "noise": "nullscape:material/property/malleability",
+        "xz_scale": 1,
+        "y_scale": 1.0,
+        "shift_x": 0,
+        "shift_y": 0,
+        "shift_z": 0
+      }
+    }
+}
