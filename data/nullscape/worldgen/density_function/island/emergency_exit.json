@@ -29,5 +29,7 @@
         "value": -100
       }
     ]
-  }
+  },
+  "min_value": -101,
+  "max_value": 80
 }

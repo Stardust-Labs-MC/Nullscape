@@ -19,5 +19,7 @@
         "value": 5.6
       }
     ]
-  }
+  },
+  "min_value": 1,
+  "max_value": 5.6
 }

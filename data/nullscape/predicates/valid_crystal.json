@@ -1,0 +1,71 @@
+[
+    {
+        "condition": "alternative",
+        "terms": [
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "location": {
+                        "position": {
+                            "x": {
+                                "min": -0.5,
+                                "max": 1.5
+                            },
+                            "y": 62,
+                            "z": 3.5
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "location": {
+                        "position": {
+                            "x": {
+                                "min": -0.5,
+                                "max": 1.5
+                            },
+                            "y": 62,
+                            "z": -2.5
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "location": {
+                        "position": {
+                            "x": 3.5,
+                            "y": 62,
+                            "z": {
+                                "min": -0.5,
+                                "max": 1.5
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "location": {
+                        "position": {
+                            "x": -2.5,
+                            "y": 62,
+                            "z": {
+                                "min": -0.5,
+                                "max": 1.5
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

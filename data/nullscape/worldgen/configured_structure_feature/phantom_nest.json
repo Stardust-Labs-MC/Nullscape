@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "biomes": [
+    "nullscape:crystal_peaks",
+    "nullscape:void_barrens"
+  ],
+  "adapt_noise": false,
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "nullscape:phantom/main_hive",
+    "size": 6
+  }
+}

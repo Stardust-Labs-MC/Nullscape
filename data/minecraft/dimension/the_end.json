@@ -2,6 +2,7 @@
   "type": "minecraft:the_end",
   "generator": {
     "type": "minecraft:noise",
+    "seed": 42069,
     "settings": "minecraft:end",
     "biome_source": {
       "type": "minecraft:multi_noise",
@@ -208,7 +209,7 @@
             ],
             "depth": [
               1.9,
-              2.0
+              2
             ],
             "offset": 0.75
           }
