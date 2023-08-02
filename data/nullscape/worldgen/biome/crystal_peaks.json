@@ -1,9 +1,14 @@
 {
+    "temperature": 0.5,
+    "downfall": 0.5,
+    "has_precipitation": false,
     "effects": {
         "sky_color": 0,
         "fog_color": 10518688,
-        "water_color": 7172215,
+        "water_color": 9995221,
         "water_fog_color": 329011,
+        "grass_color": 10717400,
+        "foliage_color": 4561369,
         "ambient_sound": "minecraft:ambient.soul_sand_valley.loop",
         "mood_sound": {
             "sound": "minecraft:ambient.basalt_deltas.mood",
@@ -22,23 +27,6 @@
             "probability": 0.01
         }
     },
-    "carvers": {},
-    "features": [
-        [
-            "nullscape:crystal/crystal"
-        ],
-        [],
-        [],
-        [],
-        [
-            "minecraft:end_gateway_return"
-        ],
-        [],
-        [],
-        [],
-        [],
-        []
-    ],
     "spawners": {
         "monster": [
             {
@@ -57,7 +45,21 @@
         "misc": []
     },
     "spawn_costs": {},
-    "temperature": 0.5,
-    "downfall": 0.5,
-    "has_precipitation": false
+    "carvers": {},
+    "features": [
+        [
+            "nullscape:crystal/crystal"
+        ],
+        [],
+        [],
+        [],
+        [
+            "minecraft:end_gateway_return"
+        ],
+        [],
+        [],
+        [],
+        [],
+        []
+    ]
 }

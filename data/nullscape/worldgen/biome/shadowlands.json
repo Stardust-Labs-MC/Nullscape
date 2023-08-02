@@ -1,11 +1,15 @@
 {
     "temperature": 2,
     "downfall": 0,
+    "has_precipitation": false,
     "effects": {
         "sky_color": 0,
         "fog_color": 10518688,
-        "water_color": 7172215,
+        "water_color": 9995221,
         "water_fog_color": 329011,
+        "grass_color": 10717400,
+        "foliage_color": 4561369,
+        "ambient_sound": "minecraft:ambient.warped_forest.loop",
         "mood_sound": {
             "sound": "minecraft:ambient.soul_sand_valley.mood",
             "tick_delay": 6000,
@@ -16,21 +20,9 @@
             "sound": "minecraft:ambient.soul_sand_valley.additions",
             "tick_chance": 0.0111
         },
-        "ambient_sound": "minecraft:ambient.warped_forest.loop",
         "particle": {
             "options": {
-                "type": "minecraft:ash",
-                "fromColor": [
-                    0.4,
-                    0.4,
-                    0.4
-                ],
-                "toColor": [
-                    0,
-                    0,
-                    0
-                ],
-                "scale": 1.45
+                "type": "minecraft:ash"
             },
             "probability": 0.08
         }
@@ -86,6 +78,5 @@
             "nullscape:shadow/vegetation",
             "nullscape:shadow/pillars_coral"
         ]
-    ],
-    "has_precipitation": false
+    ]
 }
